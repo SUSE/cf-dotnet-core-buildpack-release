@@ -53,4 +53,6 @@ builds:
     version: 1.0.30
   f88c2256-8015-462c-9d49-577f9db9bdf7:
     version: 1.0.26
+  fd3d90a3-5098-4d12-5014-f582ef2826a5:
+    version: 2.2.5.1
 format-version: "2"
