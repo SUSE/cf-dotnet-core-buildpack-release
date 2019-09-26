@@ -3,6 +3,7 @@ name: dotnet-core-buildpack
 templates: {}
 
 packages:
-- dotnet-core-buildpack
+- dotnet-core-buildpack-sle12
+- dotnet-core-buildpack-sle15
 
 properties: {}
