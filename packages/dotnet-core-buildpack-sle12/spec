@@ -1,4 +1,0 @@
----
-name: dotnet-core-buildpack-sle12
-files:
-- dotnet-core-buildpack/dotnet-core?buildpack-sle12-v*.zip
