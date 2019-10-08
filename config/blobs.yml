@@ -1,5 +1,5 @@
 ---
-dotnet-core-buildpack/dotnet-core-buildpack-v2.2.13.1-1.1-cf41131a.zip:
-  size: 5091802
-  object_id: dotnet-core-buildpack-v2.2.13.1-1.1-cf41131a.zip
-  sha: cf41131ab9520800d3f5766e947d920227bd3168
+dotnet-core-buildpack/dotnet-core-buildpack-sle15-v2.3.0.1-1.1-d1344b0e.zip:
+  size: 5089877
+  object_id: dotnet-core-buildpack-sle15-v2.3.0.1-1.1-d1344b0e.zip
+  sha: sha256:d1344b0e1c5a4f3bd334eb80bd51f0a57c690ef291b9290760bb7b44c898f70f
