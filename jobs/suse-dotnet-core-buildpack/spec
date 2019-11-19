@@ -1,5 +1,5 @@
 ---
-name: dotnet-core-buildpack
+name: suse-dotnet-core-buildpack
 templates: {}
 
 packages:
