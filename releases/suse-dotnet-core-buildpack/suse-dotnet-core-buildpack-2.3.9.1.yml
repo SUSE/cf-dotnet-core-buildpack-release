@@ -1,0 +1,21 @@
+name: suse-dotnet-core-buildpack
+version: 2.3.9.1
+commit_hash: 426790d
+uncommitted_changes: false
+jobs:
+- name: suse-dotnet-core-buildpack
+  version: f9ade2ad0e02da880cd55005e1bd7836523a7bebd4bb205df634266c3a428d15
+  fingerprint: f9ade2ad0e02da880cd55005e1bd7836523a7bebd4bb205df634266c3a428d15
+  sha1: sha256:6a42fee6cdd30e6bf2f7532286ba75d5b95c002770f1996af6bbc2fa96574e33
+  packages:
+  - dotnet-core-buildpack-sle15
+packages:
+- name: dotnet-core-buildpack-sle15
+  version: 2b671cd8607ba9ee86eee7479f51072a762821d9805f7b33a7c4b2e897ddf1db
+  fingerprint: 2b671cd8607ba9ee86eee7479f51072a762821d9805f7b33a7c4b2e897ddf1db
+  sha1: sha256:326a9300f98a56bf0c59976b0177c5060d7eb0ed1a8de05e2fbc61413f50212c
+  dependencies: []
+license:
+  version: 1dfc9384da0b01d8ea6ce3e94311127dfc657c6400f9294a20e2153be7bc6af5
+  fingerprint: 1dfc9384da0b01d8ea6ce3e94311127dfc657c6400f9294a20e2153be7bc6af5
+  sha1: sha256:cd6573aa6950e96add30f66b58fa13d542e910c1ce8e5068c158e1a04e86e154
