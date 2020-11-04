@@ -9,4 +9,6 @@ builds:
     version: 2.3.16.1
   4afb621c-750b-4458-74a7-c6cc6518eabd:
     version: 2.3.0.2
+  ffc0f995-6654-44bd-62d3-b1f973b3778c:
+    version: 2.3.18.1
 format-version: "2"
